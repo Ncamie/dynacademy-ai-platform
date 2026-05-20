@@ -16,7 +16,7 @@ AI-powered educational and career guidance platform.
 Dynacademy improves educational accessibility for learners.
 
 ## Live Demo
-[https://yourlink.com](https://dynacademy.base44.app/universities)
+https://dynacademy.base44.app/universities
 
 ## Screenshots
 <img width="800" height="500" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/40d29ad8-b2aa-4565-952f-340a5ed8a41d" />
