@@ -19,11 +19,16 @@ Dynacademy improves educational accessibility for learners.
 [https://yourlink.com](https://dynacademy.base44.app/universities)
 
 ## Screenshots
-<img width="1280" height="1024" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/ee627bdc-3f49-48b4-8324-5ed3cc2b1811" />
-<img width="1280" height="1024" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/2f24f966-7a92-4526-bf0d-54ca1c8b1029" />
-<img width="1280" height="1024" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/195edf20-2716-4982-a39b-b4df4a0fb9b9" />
-<img width="1280" height="1024" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/14523e4b-0c5c-433e-bf16-aa1eef6de4d7" />
-<img width="1280" height="1024" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/50b8dbfa-0dd0-4919-9e5f-5706b7d30cad" />
+<img width="800" height="500" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/40d29ad8-b2aa-4565-952f-340a5ed8a41d" />
+
+<img width="1280" height="894" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/c5b34e76-4d0c-4af8-9c19-7a8aedce26bb" />
+
+<img width="1273" height="889" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/5b8906c7-de56-4b6d-9106-0a46efcff827" />
+
+<img width="1256" height="883" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/1abe2432-a0d7-4be2-92bc-e5b19081da6a" />
+
+<img width="1261" height="890" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/ad3feb7e-87ec-49b7-89a7-a2fb84df1c93" />
+
 
 ## Author
 Ncamisile Ntuli
